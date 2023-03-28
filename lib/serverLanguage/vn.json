@@ -1,0 +1,82 @@
+{
+    "100": "Bạn đã bị đuổi,\r\nVui lòng liên hệ với dịch vụ khách hàng!!",
+
+    "1001": "Hệ thống sắp sửa xong, vui lòng rời game sớm, xin cảm ơn!!",
+    "1002": "Hệ thống đang bảo trì, kết nối bị gián đoạn!!",
+    "1011": "Hết thời gian kết nối hệ thống!!",
+
+    "1911": "Thông số đầu vào hệ thống sai, dự án được chỉ định không thể thực hiện được!!?",
+
+    "2000": "Đăng nhập thất bại",
+    "2001": "Không có tài khoản như vậy",
+    "2002": "Lỗi mật khẩu",
+    "2003": "Tài khoản bị vô hiệu hóa",
+    "2004": "Số lượng mật khẩu sai đã vượt quá",
+    "2005": "Tài khoản không phải thành viên",
+    "2008": "Không đăng nhập liên tục",
+    "2009": "Tài khoản đăng nhập nhiều lần",
+
+    "2100": "Người chơi không tồn tại",
+    "2101": "Người chơi đã ở trong sảnh",
+    "2102": "Trình phát bị ngắt kết nối",
+
+    "2121": "Lỗi đồng bộ hóa dữ liệu trò chơi, vui lòng đăng nhập lại",
+    "2122": "Người chơi hết chip",
+    "2123": "Không đủ mã thông báo của người chơi",
+
+    "2200": "Không thể lưu trữ giá trị",
+    "2201": "Nạp tiền trong game không được, vui lòng vào sảnh thao tác",
+
+    "2210": "Lỗi chuỗi giá trị lưu trữ phân đoạn.",
+
+    "2300": "Rút tiền (trao đổi) không thành công.",
+    "2301": "Không thể rút số tiền.",
+
+    "2501": "Không tìm thấy lịch sử",
+    "2502": "Vui lòng thử lại",
+
+    "2990": "Hệ thống không bình thường, vui lòng liên hệ bộ phận chăm sóc khách hàng",
+
+    "3000": "Không thể tham gia bảng",
+    "3001": "Người chơi đã vào trò chơi và không thể tham gia bàn",
+    "3051": "Người chơi không ở trạng thái bảng, hủy không thành công",
+
+    "3200": "Không vào được phòng",
+    "3201": "Lỗi khu vực cấp độ",
+    "3202": "Phòng không tồn tại",
+    "3203": "Không còn phòng trống",
+    "3204": "Không thể rời khỏi trò chơi",
+    "3205": "Người chơi chưa sẵn sàng",
+    "3206": "Tư cách vào phòng hiện tại của người chơi không khớp và không thể vào phòng",
+    "3207": "Lỗi mật khẩu",
+
+    "3210": "Hết phòng",
+
+    "4300": "Không chọn được chỗ ngồi",
+    "4301": "Chỗ ngồi không tồn tại",
+    "4302": "Đã có người ngồi vào chỗ",
+    "4303": "Chưa ngồi",
+    "4304": "Không còn nữa",
+
+    "4350": "Người chơi không được phép đặt cược vào lúc này",
+    "4351": "Điểm của người chơi thay đổi bất thường, không thể đặt cược nữa",
+    "4352": "Số tiền trong ví của người chơi bất thường, không đặt cược nữa",
+
+    "5001": "Có quá nhiều thời gian chờ trong trò chơi, vui lòng kết nối lại trò chơi!",
+    "5002": "Cược trò chơi đã được xác nhận và không thể thay đổi",
+    "5003": "Số tiền đặt cược thấp hơn giá trị đã đặt và không thể đặt cược",
+    "5004": "Số tiền đặt cược vượt quá giới hạn trên và không thể đặt cược",
+    "5005": "Phiếu cược không tồn tại",
+    "5006": "Cược không thể lặp lại",
+
+    "5101": "(Nạp điểm) Người chơi có đủ chip, không cần bù điểm.",
+    "5102": "(Điểm bổ sung) Tổng số điểm bổ sung không đủ để mang lại mức tối thiểu và sẽ không có điểm bổ sung nào được thực hiện.",
+
+    "6001": "Không thể tạo nhà",
+    "6002": "Phòng riêng đóng cửa",
+
+    "6102": "Người không sở hữu không thể thực hiện lệnh chức năng này",
+    "6103": "Người dẫn chương trình không cho ngồi trò chơi",
+    "6105": "Phòng trò chơi đã vào trạng thái khởi động trò chơi",
+    "6106": "Phòng game đã được giải quyết"
+}

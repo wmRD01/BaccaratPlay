@@ -1,0 +1,9 @@
+{
+    "gameID": "1000",
+    "serverport": "10002",
+    "contentid": "10",
+    "serverhost": "211.22.137.96",
+    "exChangeLib": ["1000", "5000", "MAX"],
+    "staoredValueUrl": "https://godplay.app/deposit?type=giftpack&class=cycle",
+    "backHomeUrl": ""
+}

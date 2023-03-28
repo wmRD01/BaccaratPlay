@@ -1,0 +1,82 @@
+{
+    "100": "You have been kicked out,\r\nPlease contact customer service!!",
+
+    "1001": "The system is about to be repaired, please leave the game early, thank you!!",
+    "1002": "System maintenance, connection interrupted!!",
+    "1011": "System connection timed out!!",
+
+    "1911": "The system input parameters are wrong, the specified project cannot be executed!!",
+
+    "2000": "Login failed",
+    "2001": "No such account",
+    "2002": "Password error",
+    "2003": "Account disabled",
+    "2004": "The number of wrong passwords has exceeded",
+    "2005": "Non-member account",
+    "2008": "Do not log in continuously",
+    "2009": "Repeated account login",
+
+    "2100": "Player does not exist",
+    "2101": "The player is already in the lobby",
+    "2102": "Player disconnected",
+
+    "2121": "Game data synchronization error, please log in again",
+    "2122": "Player is out of chips",
+    "2123": "Insufficient player tokens",
+
+    "2200": "Failed to store value",
+    "2201": "It is not possible to recharge in the game, please go to the lobby to operate",
+
+    "2210": "Segment storage value sequence error.",
+
+    "2300": "Exchange failed.",
+    "2301": "Points exchange failed",
+
+    "2501": "No history found",
+    "2502": "Please try again",
+
+    "2990": "The system is abnormal, please contact customer service",
+
+    "3000": "Failed to join the table",
+    "3001": "The player is already in the game and cannot join the table",
+    "3051": "The player is not in the table state, the cancellation failed",
+
+    "3200": "Failed to enter the room",
+    "3201": "Level area error",
+    "3202": "The room does not exist",
+    "3203": "No room available",
+    "3204": "Cannot leave the game",
+    "3205": "Player is not ready",
+    "3206": "The player's current qualifications for entering the room do not match and cannot enter the room",
+    "3207": "Password error",
+
+    "3210": "The room is full",
+
+    "4300": "Failed to take a seat",
+    "4301": "Seat does not exist",
+    "4302": "Someone is already in the seat",
+    "4303": "Not yet seated",
+    "4304": "No more available",
+
+    "4350": "Player is not allowed to bet at the moment",
+    "4351": "The player's points have changed abnormally, and no more bets can be placed",
+    "4352": "The player's wallet amount is abnormal, no more bets",
+
+    "5001": "There are too many timeouts in the game, please reconnect the game!",
+    "5002": "The game bet has been confirmed and cannot be changed",
+    "5003": "The bet amount is lower than the set value, and the bet cannot be placed",
+    "5004": "The bet amount exceeds the upper limit and cannot bet",
+    "5005": "Bet slip does not exist",
+    "5006": "Bet cannot be repeated",
+
+    "5101": "(Replenish points) The player has enough chips, no need to make up points.",
+    "5102": "(Replenishment points) The total amount of replenishment points is not enough to bring in the minimum, and no replenishment points will be made.",
+
+    "6001": "Failed to create a house",
+    "6002": "The private room is closed",
+
+    "6102": "Non-owners cannot execute this function command",
+    "6103": "The host has not allowed to sit the game",
+    "6105": "The game room has entered the game startup state",
+    "6106": "The game room has been settled"
+}

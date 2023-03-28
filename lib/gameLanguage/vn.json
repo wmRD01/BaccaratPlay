@@ -1,0 +1,38 @@
+{
+    "001": "Trao đổi điểm",
+    "002": "Cài đặt hiệu ứng âm thanh",
+    "003": "Bản ghi trò chơi",
+    "004": "Quay lại Trang chủ",
+    "005": "Biệt danh người chơi",
+    "006": "Cược nhiều",
+    "007": "Hiện có sẵn",
+    "008": "Trên tàu",
+    "009": "Đếm ngược khởi hành",
+    "010": "Rời khỏi tàu trước khi nó phát nổ",
+    "011": "Chiều cao thẩm quyền",
+    "012": "Tiền vàng",
+    "013": "Chiều cao",
+    "014": "Số tiền thu được",
+    "015": "Tỷ lệ hối đoái",
+    "016": "Nhập thủ công điểm trao đổi",
+    "017": "Điểm có thể chơi được",
+    "018": "Được",
+    "019": "Âm nhạc",
+    "020": "Hiệu ứng âm thanh",
+    "021": "Đổi điểm",
+    "022": "Hủy",
+    "023": "Sửa tên hiệu",
+    "024": "Xác nhận sửa đổi",
+    "025": "Nhập biệt hiệu mới",
+    "026": "Biệt hiệu đã sửa đổi thành công",
+    "027": "Số tiền rút không thể bằng 0, vui lòng đặt số tiền rút",
+
+
+
+    "E_0001": "Lỗi kết nối, vui lòng liên hệ bộ phận chăm sóc khách hàng để biết chi tiết!!",
+    "E_0002": "Kết nối bị gián đoạn, vui lòng liên hệ bộ phận chăm sóc khách hàng để biết chi tiết!!",
+    "E_0003": "Tải xuống gói ngôn ngữ không thành công, vui lòng thông báo cho dịch vụ khách hàng",
+    "E_0004": "Biệt danh không được để trống",
+    "E_0005": "Biệt danh không thể thay đổi trong trò chơi",
+    "E_0006": "Biểu tượng đặc biệt bị cấm"
+}
